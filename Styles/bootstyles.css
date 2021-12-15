@@ -1,6 +1,4 @@
-body{
-    background-color: olivedrab;
-}
+
 .menu {
     display: flex;
     border: black;
@@ -26,4 +24,7 @@ body{
 #black {
     color: black;
     text-align: center;
+}
+body{
+    background-color: olivedrab;
 }
