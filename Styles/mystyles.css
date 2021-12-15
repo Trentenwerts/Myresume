@@ -1,0 +1,59 @@
+body {
+    background-image: url("../Images/GreyBackground.jpg");
+}
+h1 {
+   color: aliceblue;
+   font-size: xx-large;   
+}
+h2 {
+    color: aliceblue;
+}
+h3 {
+    color: aliceblue;
+    font-size: small;
+}
+h4 {
+    color: black;
+    font-size: xx-large;
+    font-style: italic;
+}
+h5{
+    color: black;
+    font-size: x-large;
+}
+h6 {
+    color: aliceblue;
+}
+p {
+    color: black;
+    font-size: medium;
+}
+#img {
+    width: 15%;
+    height: auto;
+}
+#eagle {
+    color: black;
+}
+#white {
+    color: white;
+}
+#trip {
+    image-orientation: center;
+    width: 75%;
+    height: 75%;
+}
+li{
+    color: black;
+    font-size: large;
+}
+#dates {
+    font-size: x-large;
+}
+#Center{
+    text-align: center;
+}
+#black {
+    color: black;
+    text-align: center;
+}
